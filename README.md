@@ -1,14 +1,14 @@
 Croppic
 =======
 
-see full documentation at http://www.croppic.net/
+请参阅完整的文档 http://croppic.ivu4e.com/
 
-Browser compatibility
+浏览器兼容情况
 ---------------------
 
-Croppic works in most major browsers (yes, now even in IE9):
+Croppic可在大多数主流浏览器中使用（是的，即使在IE9中也是如此）：
 
-- **IE8**: Untested
+- **IE8**: 未测试
 - **IE9**: Works!
 - **IE10+**: Works!
 - **Safari 4+**: Works!
@@ -16,10 +16,10 @@ Croppic works in most major browsers (yes, now even in IE9):
 - **Chrome 14+**: Works!
 - **Opera 15+**: Works!
 
-Support
+支持
 -------
 
-Please don't contact me by email for support. The right place to get support is here:
+请不要通过电子邮件与我联系以获得支持。获得支持的正确位置在这里：
 [Croppic Issues](https://github.com/sconsult/croppic/issues) 
 
 
