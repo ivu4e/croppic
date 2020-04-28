@@ -20,7 +20,7 @@ Croppic可在大多数主流浏览器中使用（是的，即使在IE9中也是�
 -------
 
 请不要通过电子邮件与我联系以获得支持。获得支持的正确位置在这里：
-[Croppic Issues](https://github.com/sconsult/croppic/issues) 
+[Croppic Issues](https://github.com/ivu4e/croppic/issues) 
 
 
 MIT LICENSE
